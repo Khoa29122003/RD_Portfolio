@@ -1,0 +1,16 @@
+body{
+	font-family: "Josefin Sans", sans-serif;
+	font-size: 20px;
+	margin: 0;
+	background-color: #1f2e13;
+}
+p{ color: #666;line-height: 1.5em; }
+h2 {
+	font-size: 50pt;
+}
+.text-yellow{
+	color: #f3f996;
+}
+.text-bg{
+	color:#1f2e13;
+}
